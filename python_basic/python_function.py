@@ -48,3 +48,19 @@ def feb(n):
 	print result
 print 'Fibonacci Series ',feb(6)
 print('===============================================')
+# ------------------------------------------------------
+#  		  OUTPUT WILL BE ABOVE CODE
+# ------------------------------------------------------
+Hello
+This Text Return From fun2() Function
+Muhammad Hasan
+25
+===============================================
+Name : Muhammad Hasan Ahmed
+Address:  Lalbagh Dhaka Bangladesh
+===============================================
+60
+===============================================
+Fibonacci Series  [0, 1, 1, 2, 3, 5]
+None
+===============================================
