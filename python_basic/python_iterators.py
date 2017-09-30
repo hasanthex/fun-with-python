@@ -51,3 +51,17 @@ print it.__next__()
 # The __next__() method must return the next item in the sequence. 
 # On reaching the end, and in subsequent calls, it must raise StopIteration.
 print('=============================================')
+# **********************************************
+# 		   OUTPUT WILL BE ABOVE CODE
+# **********************************************
+=============================================
+Result By For Loop:   A B C D E F G
+=============================================
+Type is:  <type 'iterator'>
+Result By Iterator Object:  A B C D E F G
+=============================================
+1
+2
+4
+8
+=============================================
